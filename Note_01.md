@@ -13,3 +13,19 @@
 
 > [!IMPORTANT]
 > Including an open source  license will make your GitHub project open source
+
+### README File
+ #### In your README File try to answer the following:
+ - what does this project do?
+ - why is this project useful?
+ - How do i get started?
+ - where can i get more help,if I need it?
+ #### You can also use answer these Questions also:
+ - How you handle contributions?
+ - what the goal of the projects are?
+ - Information about licenses and attribution.
+ > [!TIP]
+ > @dguo’s [“Make a README”](https://www.makeareadme.com/) guide or @PurpleBooth’s [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) 
+
+> [!NOTE]
+> When you include a README File in the root directory, GitHub will automatically display it on the repository homepage.
