@@ -12,4 +12,4 @@
 - When you create a new project on GitHub,You are given a option to select a license.
 
 > [!IMPORTANT]
-- Including an open source  license will make your GitHub project open source
+> Including an open source  license will make your GitHub project open source
